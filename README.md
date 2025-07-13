@@ -12,7 +12,7 @@ A simple Weather App built using HTML, CSS and JavaScript, which fetches real-ti
 
  Uses modern JavaScript with fetch() and async/await
 
-🛠️ Tech Stack
+ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
 API: OpenWeatherMap
